@@ -1,16 +1,24 @@
 {
-  "name": "node-demo",
+  "name": "demo",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is introduction of backend logic of web development",
   "main": "app.js",
+  "type": "commonjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "LorettaOkoh",
   "license": "ISC",
-  "type": "commonjs",
   "dependencies": {
     "express": "^5.2.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amazinglorrie/Node-Demo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Amazinglorrie/Node-Demo/issues"
+  },
+  "homepage": "https://github.com/Amazinglorrie/Node-Demo#readme"
 }
